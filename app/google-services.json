@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484733041856",
+    "project_id": "highscore-ef048",
+    "storage_bucket": "highscore-ef048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484733041856:android:e7103d023938c896780125",
+        "android_client_info": {
+          "package_name": "edu.csub.startracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484733041856-2bbboluedo9vuimm821fn04n6l4l916b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5KUDGY6m_WFJBEeclYgB1koN8Ul_Nh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484733041856-2bbboluedo9vuimm821fn04n6l4l916b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
