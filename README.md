@@ -10,8 +10,8 @@ Welcome to Star Tracker, an exciting and fast-paced spaceship hunting game where
 - High Scores
 - Firebase Integration
 - Feedback and Support
-- Gameplay
-  
+
+## Gameplay
 In Star Tracker, your mission is to eliminate incoming enemy spaceships that appear from the other side of the screen. These enemy spaceships can come down in different patterns and may also fire projectiles at your spaceship. Use your skills to dodge enemy attacks while taking them down one by one. The game becomes progressively more challenging as you advance, so stay alert and keep your fingers on the controls!
 
 ## Features
